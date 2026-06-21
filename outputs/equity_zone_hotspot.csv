@@ -1,0 +1,579 @@
+zone,hotspot,n
+Adugodi,-1,831
+Adugodi,G0060,127
+Adugodi,G0082,81
+Adugodi,G0138,63
+Adugodi,G0212,90
+Adugodi,G0260,416
+Adugodi,G0263,92
+Adugodi,G0268,60
+Adugodi,"J:BTP123 - 10th Cross, Wilson Garden",7
+Adugodi,J:BTP126 - Dairy Circle,73
+Adugodi,J:BTP132 - Anepalya Junction,24
+Adugodi,J:BTP133 - Adugodi Junction,73
+Adugodi,J:BTP135 - UCO Bank Junction,1112
+Adugodi,J:BTP136 - Hosur-Tavarkere Road Junction,51
+Adugodi,J:BTP138 - Sarjapur Road Check Post,15
+Adugodi,J:BTP140 - Madiwala Check Post,217
+Ashok Nagar,-1,508
+Ashok Nagar,G0119,1130
+Ashok Nagar,G0132,67
+Ashok Nagar,G0138,2
+Ashok Nagar,J:BTP051 - Safina Plaza Junction,46
+Ashok Nagar,"J:BTP099 - Cash Pharmacy, Residency Road",177
+Ashok Nagar,J:BTP100 - Richmond Circle,299
+Ashok Nagar,"J:BTP101 - Blood Bank Circle, KH Road",381
+Ashok Nagar,"J:BTP102 - BMTC Junction, KH Road",1
+Ashok Nagar,J:BTP132 - Anepalya Junction,133
+Ashok Nagar,"J:BTP145 - Sri Hatti Maramma Circle, Domluru",4
+Ashok Nagar,J:BTP172 - Nanjappa Circle,776
+Banashankari,-1,312
+Banashankari,G0155,229
+Banashankari,"J:BTP113 - 27th Cross, Pai Vista, KR Road",126
+Banashankari,"J:BTP114 - KR Road Junction, Near JSS",63
+Banashankari,"J:BTP115 - Sahasra Hospital, Jayanagar",133
+Banashankari,J:BTP155 - Katriguppe Junction,339
+Banaswadi,-1,1131
+Banaswadi,G0074,707
+Banaswadi,G0093,896
+Banaswadi,G0096,16
+Banaswadi,G0104,102
+Banaswadi,G0164,809
+Banaswadi,G0214,98
+Basavanagudi,-1,250
+Basavanagudi,G0101,431
+Basavanagudi,J:BTP107 - National College Junction,7
+Basavanagudi,J:BTP108 - Tagore Park Junction,1801
+Basavanagudi,J:BTP109 - Dewan Madhava Rao Junction,309
+Basavanagudi,J:BTP184 - Lalbagh West Gate,99
+Basavanagudi,"J:BTP186 - 9th Cross, 4th Main, Jayanagar",100
+Basavanagudi,J:BTP193 - Vasavi Circle,8
+Basavanagudi,J:BTP214 - 5th Main Chamrajpet  Junction,20
+Basavanagudi,J:BTP215 - Vanivillas Junction,409
+Basavanagudi,J:BTP216 - Yediyur Junction,170
+Bellandur,-1,1305
+Bellandur,G0000,584
+Bellandur,G0009,129
+Bellandur,G0021,1857
+Bellandur,G0056,188
+Bellandur,G0079,61
+Bellandur,G0087,209
+Bellandur,G0109,164
+Bellandur,G0127,238
+Bellandur,G0145,80
+Bellandur,G0228,117
+Bellandur,G0231,32
+Byatarayanapura,-1,647
+Byatarayanapura,G0027,322
+Byatarayanapura,G0103,392
+Byatarayanapura,G0180,600
+Byatarayanapura,G0187,128
+Byatarayanapura,J:BTP017 - Attiguppe Circle,393
+Byatarayanapura,"J:BTP093 - Toll Gate, Mysore Road",9
+Byatarayanapura,"J:BTP094 - Sri Skanda Complex, Mysore Road",111
+Byatarayanapura,"J:BTP095 - Satellite Bus Stand, Mysore Road",775
+Byatarayanapura,J:BTP096 - Gali Anjaneya Temple,972
+Byatarayanapura,J:BTP098 - Nayandahalli Junction,206
+Chamarajpet,-1,111
+Chamarajpet,J:BTP043 - Upparpet Junction,1
+Chamarajpet,J:BTP048 - Shanthala Junction,1537
+Chamarajpet,J:BTP057 - Anand Rao Junction,21
+Chamarajpet,"J:BTP083 - AS Char Street, Mysore Road",1529
+Chamarajpet,J:BTP085 - Briyand Circle,157
+Chamarajpet,"J:BTP089 - Police Quarters, Sultan Road",87
+Chamarajpet,J:BTP091 - Sirsi Circle,125
+Chamarajpet,J:BTP092 - Bangalore Builders Junction,72
+Chamarajpet,"J:BTP093 - Toll Gate, Mysore Road",37
+Chamarajpet,J:BTP214 - 5th Main Chamrajpet  Junction,118
+Chikkabanavara,-1,461
+Chikkabanavara,G0165,95
+Chikkabanavara,G0171,86
+Chikkabanavara,G0219,73
+Chikkabanavara,G0239,70
+Chikkajala,-1,530
+Chikkajala,G0039,153
+Chikkajala,G0046,924
+Chikkajala,G0084,3948
+Chikkajala,G0158,98
+Chikkajala,G0223,113
+Chikkajala,G0264,68
+City Market,-1,4
+City Market,G0002,1033
+City Market,J:BTP038 - Mysore Bank Junction,67
+City Market,J:BTP043 - Upparpet Junction,1407
+City Market,J:BTP044 - Sagar Theatre Junction,500
+City Market,"J:BTP080 - NR Road, SP Road Junction",398
+City Market,J:BTP082 - KR Market Junction,10109
+City Market,"J:BTP083 - AS Char Street, Mysore Road",1183
+City Market,J:BTP104 - Medical College Circle,1457
+City Market,J:BTP118 - Basappa Circle,623
+City Market,J:BTP119 - Minerva Circle,162
+City Market,J:BTP120 - Lalbagh Main Gate Junction,138
+City Market,J:BTP167 - JC Road Junction,368
+City Market,"J:BTP168 - MSR Building, JC Road",4
+City Market,J:BTP180 - Swagath Poornima Theatre,6
+City Market,J:BTP184 - Lalbagh West Gate,31
+City Market,J:BTP192 - Urvashi Theater,156
+Cubbon Park,-1,325
+Cubbon Park,G0026,2
+Cubbon Park,G0119,96
+Cubbon Park,G0247,71
+Cubbon Park,J:BTP034 - LRDE Junction,39
+Cubbon Park,J:BTP036 - Police Thimmaiah Circle (GPO),83
+Cubbon Park,J:BTP037 - KR Circle,135
+Cubbon Park,J:BTP041 - Gopal Gowda Circle,378
+Cubbon Park,J:BTP042 - Minsk Square Junction (CTO),164
+Cubbon Park,J:BTP047 - Vidhan Soudha Metro Station,200
+Cubbon Park,J:BTP051 - Safina Plaza Junction,105
+Cubbon Park,J:BTP052 - CID Carlton House Junction,166
+Cubbon Park,J:BTP063 - Siddalingaiah Circle,983
+Cubbon Park,J:BTP076 - Hudson Circle,180
+Cubbon Park,"J:BTP099 - Cash Pharmacy, Residency Road",172
+Cubbon Park,J:BTP100 - Richmond Circle,2
+Cubbon Park,J:BTP166 - Coffee Board Junction,121
+Cubbon Park,J:BTP171 - Indian Express (Balekundri),8
+Cubbon Park,J:BTP173 - TMC,3
+Cubbon Park,J:BTP203 - RRMR Junction,7
+Cubbon Park,J:BTP211 - Central Street Junction,15
+Devanahalli Airport,-1,418
+Devanahalli Airport,G0084,458
+Devanahalli Airport,G0089,64
+Electronic City,-1,1270
+Electronic City,G0028,401
+Electronic City,G0064,73
+Electronic City,G0090,1970
+Electronic City,G0192,99
+Electronic City,G0226,89
+Electronic City,G0237,60
+Electronic City,G0238,291
+Electronic City,G0248,71
+Electronic City,G0261,9
+HAL Old Airport,-1,2127
+HAL Old Airport,G0011,1174
+HAL Old Airport,G0012,1534
+HAL Old Airport,G0013,381
+HAL Old Airport,G0021,64
+HAL Old Airport,G0025,1089
+HAL Old Airport,G0033,2246
+HAL Old Airport,G0042,1593
+HAL Old Airport,G0056,50
+HAL Old Airport,G0059,450
+HAL Old Airport,G0062,7244
+HAL Old Airport,G0108,206
+HAL Old Airport,G0113,440
+HAL Old Airport,G0134,96
+HAL Old Airport,G0151,140
+HAL Old Airport,G0156,135
+HAL Old Airport,G0163,143
+HAL Old Airport,G0167,611
+HAL Old Airport,G0185,63
+HAL Old Airport,G0191,102
+HAL Old Airport,G0227,2
+HAL Old Airport,G0231,44
+HAL Old Airport,G0242,62
+HAL Old Airport,G0254,130
+HAL Old Airport,G0256,693
+HSR Layout,-1,1398
+HSR Layout,G0007,76
+HSR Layout,G0036,897
+HSR Layout,G0052,78
+HSR Layout,G0100,230
+HSR Layout,G0117,75
+HSR Layout,G0130,753
+HSR Layout,G0139,63
+HSR Layout,G0154,267
+HSR Layout,G0181,1121
+HSR Layout,G0210,60
+Halasur,-1,957
+Halasur,G0001,97
+Halasur,G0026,2122
+Halasur,G0157,364
+Halasur,G0190,96
+Halasur,G0194,68
+Halasur,"J:BTP145 - Sri Hatti Maramma Circle, Domluru",171
+Halasur,J:BTP146 - Domlur Water Tank,136
+Halasuru Gate,-1,37
+Halasuru Gate,G0002,5
+Halasuru Gate,J:BTP037 - KR Circle,40
+Halasuru Gate,J:BTP038 - Mysore Bank Junction,594
+Halasuru Gate,J:BTP063 - Siddalingaiah Circle,77
+Halasuru Gate,J:BTP064 - Devanga Hostel Junction,104
+Halasuru Gate,J:BTP075 - Police Corner,188
+Halasuru Gate,J:BTP076 - Hudson Circle,275
+Halasuru Gate,J:BTP078 - NR Square Junction,244
+Halasuru Gate,J:BTP079 - Town Hall Junction,162
+Halasuru Gate,"J:BTP080 - NR Road, SP Road Junction",3283
+Halasuru Gate,J:BTP082 - KR Market Junction,796
+Halasuru Gate,J:BTP100 - Richmond Circle,3
+Halasuru Gate,"J:BTP101 - Blood Bank Circle, KH Road",29
+Halasuru Gate,"J:BTP102 - BMTC Junction, KH Road",7
+Halasuru Gate,J:BTP167 - JC Road Junction,4
+Halasuru Gate,"J:BTP168 - MSR Building, JC Road",128
+Halasuru Gate,J:BTP180 - Swagath Poornima Theatre,195
+Halasuru Gate,J:BTP203 - RRMR Junction,123
+Hebbala,-1,369
+Hebbala,G0071,2498
+Hebbala,G0078,109
+Hebbala,G0188,69
+Hebbala,G0208,161
+Hebbala,G0243,3
+Hennuru,-1,735
+Hennuru,G0016,89
+Hennuru,G0160,68
+High ground,-1,277
+High ground,G0003,278
+High ground,G0008,1
+High ground,G0054,405
+High ground,G0232,75
+High ground,J:BTP032 - Windsor Circle,2429
+High ground,"J:BTP033 - Sophia High School, Sankey Road",208
+High ground,J:BTP034 - LRDE Junction,178
+High ground,J:BTP052 - CID Carlton House Junction,26
+High ground,J:BTP054 - Shivananda Circle,589
+High ground,J:BTP057 - Anand Rao Junction,116
+High ground,J:BTP058 - Subbanna Junction,359
+High ground,J:BTP171 - Indian Express (Balekundri),10
+Hulimavu,-1,764
+Hulimavu,G0047,492
+Hulimavu,G0064,386
+Hulimavu,G0100,554
+Hulimavu,G0248,7
+Hulimavu,G0261,192
+J.P. Nagar,-1,466
+J.P. Nagar,G0047,3
+J.P. Nagar,G0129,84
+J.P. Nagar,"J:BTP117 - 9th Cross, Kanakapura Road",120
+J.P. Nagar,J:BTP130 - GD Mara Junction,133
+J.P. Nagar,"J:BTP159 - JP Nagar Metro, ORR",64
+J.P. Nagar,"J:BTP176 - Rajalakshmi Kalyana Mantapa, JP Nagar",13
+J.P. Nagar,"J:BTP177 - Aurobindo Circle, ORR",105
+J.P. Nagar,"J:BTP179 - 9th Block, 28th Main, Jayanagar",9
+J.P. Nagar,J:BTP196 - Sarakki Main Road,138
+J.P. Nagar,"J:BTP197 - 9th Cross, 24th Main, JP Nagar",284
+J.P. Nagar,"J:BTP202 - East End Main Road, Jayanagar",4
+J.P. Nagar,"J:BTP221 - 15th Cross, 24th Main, JP Nagar",116
+J.P. Nagar,J:BTP222 - Delmia Circle,98
+Jalahalli,-1,529
+Jalahalli,G0073,162
+Jalahalli,G0118,60
+Jalahalli,G0202,247
+Jalahalli,G0204,162
+Jayanagara,-1,120
+Jayanagara,"J:BTP114 - KR Road Junction, Near JSS",1
+Jayanagara,"J:BTP115 - Sahasra Hospital, Jayanagar",198
+Jayanagara,"J:BTP117 - 9th Cross, Kanakapura Road",111
+Jayanagara,"J:BTP127 - Sagar Hospital, Jayanagar",70
+Jayanagara,"J:BTP176 - Rajalakshmi Kalyana Mantapa, JP Nagar",183
+Jayanagara,"J:BTP177 - Aurobindo Circle, ORR",81
+Jayanagara,"J:BTP179 - 9th Block, 28th Main, Jayanagar",101
+Jayanagara,"J:BTP188 - 27th Cross, 4th Main, Jayanagar",294
+Jayanagara,"J:BTP189 - New Diagonal Road, Jayanagar",602
+Jayanagara,"J:BTP190 - 36th Cross, 4th Main, Jayanagar",145
+Jayanagara,"J:BTP191 - 40th Cross, 4th Main, Jayanagar",105
+Jayanagara,"J:BTP202 - East End Main Road, Jayanagar",131
+Jayanagara,J:BTP216 - Yediyur Junction,2
+Jayanagara,J:BTP218 - Syndicate Bank Junction,238
+Jayanagara,J:BTP219 - Canara Bank Junction,358
+Jayanagara,J:BTP220 - Puttanna Junction,294
+Jayanagara,J:BTP225 - Geetha Junction,287
+Jayanagara,"J:BTP226 - 33rd Cross, 11th Main, Jayanagar",492
+Jeevanbheemanagar,-1,1146
+Jeevanbheemanagar,G0015,630
+Jeevanbheemanagar,G0020,417
+Jeevanbheemanagar,G0023,72
+Jeevanbheemanagar,G0072,938
+Jeevanbheemanagar,G0096,1209
+Jeevanbheemanagar,G0105,863
+Jeevanbheemanagar,G0111,533
+Jeevanbheemanagar,G0123,62
+Jeevanbheemanagar,G0194,111
+Jeevanbheemanagar,J:BTP146 - Domlur Water Tank,10
+Jeevanbheemanagar,"J:BTP148 - 17th Main, Doopanahalli Bus Stop",745
+Jnanabharathi,-1,511
+Jnanabharathi,G0019,454
+Jnanabharathi,G0103,2
+Jnanabharathi,G0205,96
+K.G. Halli,-1,616
+K.G. Halli,G0193,276
+K.R. Pura,-1,795
+K.R. Pura,G0029,3816
+K.R. Pura,G0043,190
+K.R. Pura,G0074,23
+K.R. Pura,G0076,1254
+K.R. Pura,G0093,79
+K.R. Pura,G0222,298
+K.R. Pura,G0250,91
+K.S. Layout,-1,440
+K.S. Layout,G0080,103
+K.S. Layout,G0149,86
+K.S. Layout,G0170,15
+K.S. Layout,G0172,38
+K.S. Layout,"J:BTP113 - 27th Cross, Pai Vista, KR Road",2
+K.S. Layout,"J:BTP115 - Sahasra Hospital, Jayanagar",31
+K.S. Layout,"J:BTP117 - 9th Cross, Kanakapura Road",76
+K.S. Layout,"J:BTP159 - JP Nagar Metro, ORR",37
+Kamakshipalya,-1,643
+Kamakshipalya,G0094,148
+Kamakshipalya,G0140,194
+Kamakshipalya,G0143,196
+Kamakshipalya,J:BTP208 - Havanur Circle,250
+Kengeri,-1,402
+Kengeri,G0241,62
+Kodigehalli,-1,1365
+Kodigehalli,G0037,111
+Kodigehalli,G0040,4
+Kodigehalli,G0066,5549
+Kodigehalli,G0071,726
+Kodigehalli,G0078,315
+Kodigehalli,G0081,81
+Kodigehalli,G0088,465
+Kodigehalli,G0092,246
+Kodigehalli,G0102,129
+Kodigehalli,G0114,916
+Kodigehalli,G0124,80
+Kodigehalli,G0126,274
+Kodigehalli,G0188,26
+Kodigehalli,G0189,203
+Kodigehalli,G0207,2
+Kodigehalli,G0208,255
+Kodigehalli,G0229,148
+Kodigehalli,G0243,21
+Madiwala,-1,409
+Madiwala,G0036,198
+Madiwala,G0153,170
+Madiwala,G0154,65
+Madiwala,G0216,9
+Madiwala,J:BTP136 - Hosur-Tavarkere Road Junction,15
+Madiwala,J:BTP137 - Madiwala Traffic PS Junction,596
+Madiwala,J:BTP138 - Sarjapur Road Check Post,60
+Madiwala,J:BTP140 - Madiwala Check Post,41
+Magadi Road,-1,264
+Magadi Road,G0035,715
+Magadi Road,G0053,848
+Magadi Road,G0063,27
+Magadi Road,J:BTP010 - Rajajinagar Entrance,623
+Magadi Road,J:BTP020 - Hosahalli Metro Station,66
+Magadi Road,"J:BTP024 - NPS, Vijayanagar",565
+Magadi Road,J:BTP061 - Bhashyam Circle,58
+Magadi Road,"J:BTP062 - Basava Mantapa, Dr. Rajkumar Road",425
+Magadi Road,J:BTP067 - Jai Muni Rao Circle,274
+Magadi Road,J:BTP068 - Veeresh Theatre Junction,87
+Magadi Road,J:BTP069 - MC Circle,256
+Magadi Road,"J:BTP070 - Cholurpalya Junction, Magadi Road",2272
+Magadi Road,J:BTP071 - Prasanna Junction,721
+Magadi Road,J:BTP074 - Leprosy Hospital Junction,1047
+Magadi Road,J:BTP091 - Sirsi Circle,138
+Magadi Road,J:BTP092 - Bangalore Builders Junction,24
+Magadi Road,"J:BTP093 - Toll Gate, Mysore Road",44
+Magadi Road,"J:BTP094 - Sri Skanda Complex, Mysore Road",1
+Magadi Road,J:BTP208 - Havanur Circle,103
+Mahadevapura,-1,1799
+Mahadevapura,G0045,1253
+Mahadevapura,G0074,1176
+Mahadevapura,G0093,1037
+Mahadevapura,G0113,93
+Mahadevapura,G0174,326
+Mahadevapura,G0215,337
+Mahadevapura,G0227,65
+Mahadevapura,G0250,36
+Mahadevapura,G0266,65
+Malleshwaram,-1,859
+Malleshwaram,G0006,7712
+Malleshwaram,G0061,5824
+Malleshwaram,G0131,183
+Malleshwaram,G0176,61
+Malleshwaram,G0182,117
+Malleshwaram,"J:BTP001 - 10th Cross, Dr. Rajkumar Road",2812
+Malleshwaram,J:BTP008 - Navarang Theatre,966
+Malleshwaram,"J:BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road",16
+Malleshwaram,J:BTP023 - Mahalaxmi Layout Entrance,868
+Malleshwaram,"J:BTP026 - 1st Block Junction, Rajajinagar",1039
+Malleshwaram,J:BTP027 - Modi Bridge Junction,652
+Malleshwaram,"J:BTP182 - 19th Main Junction, Rajajinagar",1091
+Mico Layout,-1,346
+Mico Layout,G0112,352
+Mico Layout,G0129,5
+Mico Layout,G0141,333
+Mico Layout,G0216,53
+Mico Layout,J:BTP126 - Dairy Circle,213
+Mico Layout,"J:BTP127 - Sagar Hospital, Jayanagar",13
+Mico Layout,J:BTP130 - GD Mara Junction,498
+Mico Layout,J:BTP136 - Hosur-Tavarkere Road Junction,294
+Mico Layout,J:BTP140 - Madiwala Check Post,110
+Mico Layout,"J:BTP163 - 16th Main Road, BTM Layout",364
+Mico Layout,"J:BTP202 - East End Main Road, Jayanagar",7
+No Police Station,-1,318
+No Police Station,G0061,2
+No Police Station,G0268,1
+No Police Station,"J:BTP016 - 5th Main Road, RPC Layout",10
+No Police Station,"J:BTP022 - Marenahalli Junction, Vijayanagar",1
+No Police Station,J:BTP028 - Vijayanagar Bus Stand Junction,1
+No Police Station,J:BTP057 - Anand Rao Junction,3
+No Police Station,J:BTP067 - Jai Muni Rao Circle,2
+No Police Station,J:BTP082 - KR Market Junction,1
+Peenya,-1,518
+Peenya,G0069,132
+Peenya,G0171,1
+Peenya,G0213,77
+Peenya,G0219,165
+Peenya,G0239,81
+Pulikeshinagar(F.Town),-1,1419
+Pulikeshinagar(F.Town),G0018,257
+Pulikeshinagar(F.Town),G0038,567
+Pulikeshinagar(F.Town),G0048,153
+Pulikeshinagar(F.Town),G0144,142
+Pulikeshinagar(F.Town),G0150,92
+Pulikeshinagar(F.Town),G0161,107
+Pulikeshinagar(F.Town),G0168,499
+Pulikeshinagar(F.Town),G0183,85
+Pulikeshinagar(F.Town),G0234,717
+Pulikeshinagar(F.Town),G0236,98
+R.T. Nagar,-1,823
+R.T. Nagar,G0037,234
+R.T. Nagar,G0040,56
+R.T. Nagar,G0136,341
+R.T. Nagar,G0243,134
+R.T. Nagar,G0249,60
+R.T. Nagar,G0262,61
+R.T. Nagar,J:BTP030 - Mekhri Circle,27
+Rajajinagar,-1,826
+Rajajinagar,G0055,614
+Rajajinagar,G0057,382
+Rajajinagar,G0061,147
+Rajajinagar,G0068,60
+Rajajinagar,G0125,216
+Rajajinagar,J:BTP008 - Navarang Theatre,224
+Rajajinagar,J:BTP009 - Prakash Nagar Junction,262
+Rajajinagar,J:BTP010 - Rajajinagar Entrance,252
+Rajajinagar,"J:BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road",1192
+Rajajinagar,"J:BTP015 - Suguna Hospital, Dr. Rajkumar Road",103
+Rajajinagar,J:BTP018 - Dhobi Ghat Junction,169
+Rajajinagar,J:BTP023 - Mahalaxmi Layout Entrance,939
+Rajajinagar,"J:BTP024 - NPS, Vijayanagar",21
+Rajajinagar,"J:BTP026 - 1st Block Junction, Rajajinagar",47
+Rajajinagar,J:BTP027 - Modi Bridge Junction,2759
+Rajajinagar,J:BTP061 - Bhashyam Circle,972
+Rajajinagar,"J:BTP170 - Dr. Bheem Rao Palace, Chord Road",374
+Rajajinagar,"J:BTP182 - 19th Main Junction, Rajajinagar",299
+Rajajinagar,"J:BTP204 - ESI Hospital, Rajajinagar",638
+Rajajinagar,J:BTP205 - Modi Hospital Junction,38
+Rajajinagar,"J:BTP206 - Shankara Mutt Circle, Vijayanagar",9
+Rajajinagar,"J:BTP210 - 50th cross, 12th Main , Rajajinagar",455
+Sadashivanagar,-1,470
+Sadashivanagar,G0006,12
+Sadashivanagar,G0037,11
+Sadashivanagar,G0102,619
+Sadashivanagar,G0189,33
+Sadashivanagar,G0197,20
+Sadashivanagar,G0207,135
+Sadashivanagar,G0249,1
+Sadashivanagar,G0265,84
+Sadashivanagar,J:BTP030 - Mekhri Circle,60
+Sheshadripuram,-1,355
+Sheshadripuram,G0006,1459
+Sheshadripuram,G0176,447
+Sheshadripuram,G0197,111
+Sheshadripuram,J:BTP010 - Rajajinagar Entrance,82
+Sheshadripuram,J:BTP032 - Windsor Circle,320
+Sheshadripuram,J:BTP054 - Shivananda Circle,162
+Sheshadripuram,J:BTP057 - Anand Rao Junction,154
+Shivajinagar,-1,389
+Shivajinagar,G0001,4313
+Shivajinagar,G0003,546
+Shivajinagar,J:BTP042 - Minsk Square Junction (CTO),1880
+Shivajinagar,J:BTP051 - Safina Plaza Junction,15298
+Shivajinagar,J:BTP171 - Indian Express (Balekundri),96
+Shivajinagar,J:BTP173 - TMC,149
+Shivajinagar,J:BTP211 - Central Street Junction,5373
+Thalagattapura,-1,623
+Thalagattapura,G0170,180
+Thalagattapura,G0172,67
+Upparpet,-1,55
+Upparpet,G0008,130
+Upparpet,J:BTP037 - KR Circle,64
+Upparpet,J:BTP038 - Mysore Bank Junction,1360
+Upparpet,J:BTP040 - Elite Junction,10718
+Upparpet,J:BTP043 - Upparpet Junction,378
+Upparpet,J:BTP044 - Sagar Theatre Junction,10049
+Upparpet,J:BTP045 - Danvanthri Road Junction,3181
+Upparpet,J:BTP048 - Shanthala Junction,56
+Upparpet,J:BTP052 - CID Carlton House Junction,6
+Upparpet,J:BTP057 - Anand Rao Junction,3641
+Upparpet,J:BTP058 - Subbanna Junction,4830
+V.V.Puram (C.Pet),-1,1
+V.V.Puram (C.Pet),J:BTP082 - KR Market Junction,632
+V.V.Puram (C.Pet),"J:BTP083 - AS Char Street, Mysore Road",66
+V.V.Puram (C.Pet),J:BTP085 - Briyand Circle,9
+V.V.Puram (C.Pet),J:BTP104 - Medical College Circle,51
+V.V.Puram (C.Pet),J:BTP105 - Shivasankara Circle,186
+V.V.Puram (C.Pet),J:BTP106 - VV Puram College,159
+V.V.Puram (C.Pet),J:BTP107 - National College Junction,66
+V.V.Puram (C.Pet),J:BTP118 - Basappa Circle,30
+V.V.Puram (C.Pet),J:BTP119 - Minerva Circle,37
+V.V.Puram (C.Pet),J:BTP184 - Lalbagh West Gate,15
+V.V.Puram (C.Pet),J:BTP193 - Vasavi Circle,105
+V.V.Puram (C.Pet),J:BTP212 - Minto Junction,78
+V.V.Puram (C.Pet),J:BTP214 - 5th Main Chamrajpet  Junction,11
+V.V.Puram (C.Pet),J:BTP215 - Vanivillas Junction,25
+V.V.Puram (C.Pet),J:BTP217 - Baleyele Junction,85
+Vijayanagara,-1,190
+Vijayanagara,G0010,382
+Vijayanagara,G0063,151
+Vijayanagara,"J:BTP016 - 5th Main Road, RPC Layout",2464
+Vijayanagara,J:BTP017 - Attiguppe Circle,29
+Vijayanagara,J:BTP018 - Dhobi Ghat Junction,213
+Vijayanagara,J:BTP020 - Hosahalli Metro Station,4035
+Vijayanagara,"J:BTP022 - Marenahalli Junction, Vijayanagar",1156
+Vijayanagara,"J:BTP024 - NPS, Vijayanagar",46
+Vijayanagara,J:BTP027 - Modi Bridge Junction,1173
+Vijayanagara,J:BTP028 - Vijayanagar Bus Stand Junction,753
+Vijayanagara,J:BTP067 - Jai Muni Rao Circle,133
+Vijayanagara,J:BTP068 - Veeresh Theatre Junction,417
+Vijayanagara,J:BTP069 - MC Circle,819
+Vijayanagara,"J:BTP170 - Dr. Bheem Rao Palace, Chord Road",199
+Vijayanagara,J:BTP205 - Modi Hospital Junction,1007
+Vijayanagara,"J:BTP206 - Shankara Mutt Circle, Vijayanagar",710
+Vijayanagara,J:BTP207 - 8th Main Road Basaveshwara Nagar,213
+Vijayanagara,J:BTP208 - Havanur Circle,459
+Vijayanagara,J:BTP214 - 5th Main Chamrajpet  Junction,103
+Whitefield,-1,1242
+Whitefield,G0042,147
+Whitefield,G0059,41
+Whitefield,G0163,9
+Whitefield,G0169,300
+Whitefield,G0174,298
+Whitefield,G0178,63
+Whitefield,G0198,79
+Whitefield,G0199,124
+Wilson Garden,-1,341
+Wilson Garden,G0099,266
+Wilson Garden,G0122,96
+Wilson Garden,"J:BTP102 - BMTC Junction, KH Road",167
+Wilson Garden,J:BTP103 - Shanti Nagar TTMC,144
+Wilson Garden,J:BTP120 - Lalbagh Main Gate Junction,106
+Wilson Garden,J:BTP121 - KH Circle,107
+Wilson Garden,J:BTP122 - Siddapura Junction,146
+Wilson Garden,"J:BTP123 - 10th Cross, Wilson Garden",528
+Wilson Garden,J:BTP126 - Dairy Circle,48
+Wilson Garden,J:BTP132 - Anepalya Junction,1
+Wilson Garden,J:BTP180 - Swagath Poornima Theatre,60
+Wilson Garden,J:BTP184 - Lalbagh West Gate,70
+Wilson Garden,"J:BTP186 - 9th Cross, 4th Main, Jayanagar",446
+Wilson Garden,J:BTP192 - Urvashi Theater,469
+Wilson Garden,J:BTP218 - Syndicate Bank Junction,113
+Yelahanka,-1,988
+Yelahanka,G0017,379
+Yelahanka,G0039,115
+Yelahanka,G0066,4
+Yelahanka,G0184,717
+Yelahanka,G0221,64
+Yelahanka,G0245,173
+Yeshwanthpura,-1,921
+Yeshwanthpura,G0065,344
+Yeshwanthpura,G0067,557
+Yeshwanthpura,G0068,1
+Yeshwanthpura,G0083,119
+Yeshwanthpura,G0121,223
+Yeshwanthpura,G0182,19
+Yeshwanthpura,G0218,276
+Yeshwanthpura,G0230,127

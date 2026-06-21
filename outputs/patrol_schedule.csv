@@ -1,0 +1,160 @@
+hotspot,name,lat,lon,patrol,shift,violations,impact
+G0066,"Sahakar Nagar Road, Fortuna Acacia, Byatarayanap",13.071,77.588,0,morning,5553,6.9
+G0071,"Bellary Road, Vinayaka Nagar, Hebbal, Bengaluru,",13.035,77.589,0,afternoon,3224,6.59
+G0114,"Bhadrappa Flyover, Nagashetty Halli, RMV Stage 2",13.047,77.576,0,evening,916,4.9
+G0102,"80 Feet Road, Block 2, Armane Nagar, Bengaluru, ",13.028,77.574,0,night,748,5.35
+G0184,"Jakkur Main Road, Raitarasanthe, Nehru Nagar, Be",13.097,77.599,0,morning,717,4.47
+G0067,"Mumbai Bengaluru Highway, Gorguntepalya Junction",13.031,77.536,0,afternoon,557,5.02
+G0088,"15th Cross Road, Oscar Orchards, Sahakara Nagar,",13.063,77.588,0,evening,465,4.08
+G0078,"RK Road Number 7, L&T Tech Park, Byatarayanapura",13.07,77.593,0,night,424,4.31
+G0208,"Bellary Road, Esteem Mall, Hebbal Kempapura, Ben",13.05,77.593,0,morning,416,4.17
+G0017,"Allalasandra Main Road, Taralabalu Enclave, Yela",13.094,77.594,0,afternoon,379,3.83
+G0037,"Bellary Road, HGH Layout, Ganga Nagar, Bengaluru",13.023,77.585,0,evening,356,4.89
+G0065,"Mumbai Bengaluru Highway, Cardinal One, Industri",13.028,77.543,0,night,344,4.04
+G0136,"RT Nagar Main Road, Judicial Officers HBCS, Gang",13.023,77.593,0,morning,341,3.7
+G0090,"Neeladri Road, Ajmera Annex, Karuna Nagar, Dodda",12.842,77.646,1,morning,1970,5.48
+G0181,"17th Cross Road, Sector 7, HSR Layout, Bengaluru",12.912,77.635,1,afternoon,1121,4.78
+G0036,"Hosapalya Main Road, BKL Colony, Bommanahalli, B",12.906,77.63,1,evening,1095,5.15
+G0100,"Hosur Road, Ozone Manay Tech Park, Garvebhavi Pa",12.892,77.638,1,night,784,5.29
+G0130,"14th Main Road, The Metropolitan Cooperative Hou",12.912,77.638,1,morning,753,4.81
+G0000,"Amrutha College Road, Azalea, Owners Court Layou",12.9,77.675,1,afternoon,584,4.43
+G0047,"Shri Ramalingeshwara Cave Temple Road, Royal Mee",12.876,77.596,1,evening,495,3.86
+G0064,"1st Main Road, Ramaiah Reddy Layout, Singasandra",12.886,77.641,1,night,459,4.69
+G0260,"Srinivagilu Main Road, ST Bed Layout Extension, ",12.932,77.632,1,morning,416,3.97
+G0028,"Hosa Road, Channakeshava Nagar, Singasandra, Ben",12.87,77.655,1,afternoon,401,4.21
+G0154,"Hosur Road, Krimson Square, Muneshwara Nagar, HS",12.912,77.626,1,evening,332,4.38
+J:BTP051 - Safina Plaza Junction,BTP051 - Safina Plaza Junction,12.981,77.609,2,morning,15449,8.65
+J:BTP082 - KR Market Junction,BTP082 - KR Market Junction,12.964,77.577,2,afternoon,11538,8.22
+J:BTP040 - Elite Junction,BTP040 - Elite Junction,12.977,77.577,2,evening,10718,9.19
+J:BTP044 - Sagar Theatre Junction,BTP044 - Sagar Theatre Junction,12.975,77.579,2,night,10549,9.09
+J:BTP211 - Central Street Junction,BTP211 - Central Street Junction,12.983,77.603,2,morning,5388,7.92
+J:BTP058 - Subbanna Junction,BTP058 - Subbanna Junction,12.979,77.579,2,afternoon,5189,8.09
+G0001,"Kamaraj Road, Sri Nagamma Devi Circle, Sivanchet",12.983,77.611,2,evening,4410,7.16
+J:BTP057 - Anand Rao Junction,BTP057 - Anand Rao Junction,12.979,77.574,2,night,3935,8.15
+"J:BTP080 - NR Road, SP Road Junction","BTP080 - NR Road, SP Road Junction",12.964,77.583,2,morning,3681,8.34
+J:BTP045 - Danvanthri Road Junction,BTP045 - Danvanthri Road Junction,12.977,77.575,2,afternoon,3181,8.3
+"J:BTP083 - AS Char Street, Mysore Road","BTP083 - AS Char Street, Mysore Road",12.966,77.574,2,evening,2778,7.4
+J:BTP032 - Windsor Circle,BTP032 - Windsor Circle,12.993,77.588,2,night,2749,7.18
+G0026,"Mahatma Gandhi Road, WEBBS Circle Junction, Asho",12.973,77.617,2,morning,2124,6.52
+J:BTP042 - Minsk Square Junction (CTO),BTP042 - Minsk Square Junction (CTO),12.981,77.598,2,afternoon,2044,7.2
+J:BTP038 - Mysore Bank Junction,BTP038 - Mysore Bank Junction,12.973,77.581,2,evening,2021,7.72
+J:BTP043 - Upparpet Junction,BTP043 - Upparpet Junction,12.971,77.576,2,night,1786,7.62
+J:BTP048 - Shanthala Junction,BTP048 - Shanthala Junction,12.977,77.571,2,morning,1593,6.85
+J:BTP104 - Medical College Circle,BTP104 - Medical College Circle,12.96,77.577,2,afternoon,1508,6.94
+G0119,"Brigade Road, St Patricks Complex, Ashok Nagar, ",12.972,77.607,2,evening,1226,5.44
+J:BTP063 - Siddalingaiah Circle,BTP063 - Siddalingaiah Circle,12.972,77.597,2,night,1060,6.62
+G0002,"AS Char Main Road, Chickpet Circle, Chickpete, B",12.97,77.576,2,morning,1038,6.37
+G0003,"Queens Road, Rajiv Gandhi Colony, Shivaji Nagar,",12.989,77.599,2,afternoon,824,5.44
+J:BTP172 - Nanjappa Circle,BTP172 - Nanjappa Circle,12.962,77.599,2,evening,776,5.74
+J:BTP054 - Shivananda Circle,BTP054 - Shivananda Circle,12.986,77.579,2,night,751,6.46
+G0234,"Coles Road, Silver Enclave, Frazer Town, Bengalu",12.996,77.614,2,morning,717,4.79
+J:BTP118 - Basappa Circle,BTP118 - Basappa Circle,12.958,77.578,2,afternoon,653,6.5
+J:BTP192 - Urvashi Theater,BTP192 - Urvashi Theater,12.957,77.586,2,evening,625,6.91
+G0038,"Saunders Road, Pulikeshi Nagar, Frazer Town, Ben",12.995,77.61,2,night,567,4.84
+G0168,"Robertson Road, Sri Ramakrishnappa Circle, Fraze",13.0,77.611,2,morning,499,4.76
+J:BTP076 - Hudson Circle,BTP076 - Hudson Circle,12.968,77.589,2,afternoon,455,5.78
+"J:BTP101 - Blood Bank Circle, KH Road","BTP101 - Blood Bank Circle, KH Road",12.962,77.596,2,evening,410,5.21
+G0054,"Palace Road, Kumar Park, Vasant Nagar, Bengaluru",12.994,77.59,2,night,405,4.13
+J:BTP041 - Gopal Gowda Circle,BTP041 - Gopal Gowda Circle,12.977,77.59,2,morning,378,4.84
+J:BTP167 - JC Road Junction,BTP167 - JC Road Junction,12.958,77.581,2,afternoon,372,5.7
+G0157,"Old Madras Road, Someshwarpura, Halasuru, Bengal",12.974,77.623,2,evening,364,4.37
+"J:BTP099 - Cash Pharmacy, Residency Road","BTP099 - Cash Pharmacy, Residency Road",12.969,77.6,2,night,349,5.26
+J:BTP100 - Richmond Circle,BTP100 - Richmond Circle,12.963,77.598,2,morning,304,4.94
+G0029,"MBT Road, Devasandra Junction, KR Puram, Bengalu",13.008,77.695,3,morning,3816,6.08
+G0093,"Outer Ring Road, Venkatappa Colony, Mahadevapura",13.0,77.677,3,afternoon,2012,5.61
+G0074,"MBT Road, Royal Heritage, Pai Layout, Mahadevapu",12.996,77.669,3,evening,1906,6.37
+G0076,"MBT Road, SM Layout, Dooravani Nagar, Bengaluru,",13.006,77.686,3,night,1254,4.86
+G0045,"Whitefield Road, Phoenix Marketcity, Dyavasandra",12.996,77.696,3,morning,1253,5.31
+G0096,"Pusa Thippasandra Main Road, Nada Prabhu Kempego",12.972,77.658,3,afternoon,1225,5.42
+G0072,"Sir CV Raman Hospital Road, The Junction, Indira",12.97,77.647,3,evening,938,5.44
+G0105,"Domlur Inner Ring Road, HAL Stage 2, Indiranagar",12.97,77.64,3,night,863,5.4
+G0164,"Old Madras Road, Gopalan Signature Mall, Nagavar",12.994,77.663,3,morning,809,4.43
+"J:BTP148 - 17th Main, Doopanahalli Bus Stop","BTP148 - 17th Main, Doopanahalli Bus Stop",12.964,77.642,3,afternoon,745,6.0
+G0015,"Old Airport Road, Manipal Hospital Junction, Kod",12.96,77.649,3,evening,630,5.34
+G0111,"Golf Avenue Road, Muniallappa Garden, Kodihalli,",12.959,77.645,3,night,533,4.92
+G0020,"Chinmaya Mission Hospital Road, KFC Circle, Indi",12.978,77.64,3,morning,417,4.46
+G0215,"Outer Ring Road, Doddanekundi, Bengaluru, Karnat",12.979,77.695,3,afternoon,337,4.56
+G0222,"MBT Road, YSM Layout, KR Puram, Bengaluru, Karna",13.01,77.698,3,evening,298,4.11
+G0006,"Sri Venkataranga Ayangar Road, Ranganathapura, M",13.001,77.571,4,morning,9183,7.54
+G0061,"80 Feet Ring Road, Orion, Brigade Gateway, Malle",13.011,77.554,4,afternoon,5973,7.44
+J:BTP027 - Modi Bridge Junction,BTP027 - Modi Bridge Junction,12.999,77.549,4,evening,4584,8.45
+J:BTP020 - Hosahalli Metro Station,BTP020 - Hosahalli Metro Station,12.974,77.545,4,night,4101,7.84
+"J:BTP001 - 10th Cross, Dr. Rajkumar Road","BTP001 - 10th Cross, Dr. Rajkumar Road",13.008,77.555,4,morning,2812,7.45
+"J:BTP016 - 5th Main Road, RPC Layout","BTP016 - 5th Main Road, RPC Layout",12.965,77.538,4,afternoon,2474,6.92
+"J:BTP070 - Cholurpalya Junction, Magadi Road","BTP070 - Cholurpalya Junction, Magadi Road",12.973,77.551,4,evening,2272,7.18
+J:BTP023 - Mahalaxmi Layout Entrance,BTP023 - Mahalaxmi Layout Entrance,13.009,77.549,4,night,1807,7.33
+"J:BTP182 - 19th Main Junction, Rajajinagar","BTP182 - 19th Main Junction, Rajajinagar",12.999,77.551,4,morning,1390,7.43
+"J:BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road","BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road",12.994,77.554,4,afternoon,1208,6.57
+J:BTP008 - Navarang Theatre,BTP008 - Navarang Theatre,12.998,77.553,4,evening,1190,7.11
+"J:BTP022 - Marenahalli Junction, Vijayanagar","BTP022 - Marenahalli Junction, Vijayanagar",12.969,77.537,4,night,1157,6.81
+"J:BTP026 - 1st Block Junction, Rajajinagar","BTP026 - 1st Block Junction, Rajajinagar",13.002,77.55,4,morning,1086,6.72
+J:BTP069 - MC Circle,BTP069 - MC Circle,12.975,77.548,4,afternoon,1075,6.74
+J:BTP074 - Leprosy Hospital Junction,BTP074 - Leprosy Hospital Junction,12.976,77.562,4,evening,1047,6.73
+J:BTP205 - Modi Hospital Junction,BTP205 - Modi Hospital Junction,12.997,77.547,4,night,1045,6.91
+J:BTP061 - Bhashyam Circle,BTP061 - Bhashyam Circle,12.985,77.554,4,morning,1030,7.05
+J:BTP096 - Gali Anjaneya Temple,BTP096 - Gali Anjaneya Temple,12.953,77.541,4,afternoon,972,5.93
+J:BTP010 - Rajajinagar Entrance,BTP010 - Rajajinagar Entrance,12.982,77.56,4,evening,957,6.71
+G0053,"G Narayana Kumar Road, Block C, KP Agrahara, Ben",12.976,77.559,4,night,848,5.59
+J:BTP208 - Havanur Circle,BTP208 - Havanur Circle,12.988,77.538,4,morning,812,5.92
+"J:BTP095 - Satellite Bus Stand, Mysore Road","BTP095 - Satellite Bus Stand, Mysore Road",12.954,77.543,4,afternoon,775,5.76
+J:BTP028 - Vijayanagar Bus Stand Junction,BTP028 - Vijayanagar Bus Stand Junction,12.973,77.538,4,evening,754,6.15
+J:BTP071 - Prasanna Junction,BTP071 - Prasanna Junction,12.974,77.552,4,night,721,6.68
+"J:BTP206 - Shankara Mutt Circle, Vijayanagar","BTP206 - Shankara Mutt Circle, Vijayanagar",12.999,77.541,4,morning,719,5.87
+G0035,"JJR Main Road, JJR Nagar Circle, JJR Nagar North",12.964,77.554,4,afternoon,715,5.55
+"J:BTP204 - ESI Hospital, Rajajinagar","BTP204 - ESI Hospital, Rajajinagar",12.99,77.554,4,evening,638,6.23
+"J:BTP024 - NPS, Vijayanagar","BTP024 - NPS, Vijayanagar",12.983,77.549,4,night,632,5.78
+G0055,"Dr Rajkumar Puniya Bhoomi Road, Block 2, Nandini",13.018,77.532,4,morning,614,4.89
+G0180,"4th Main Road, Sri Basaveshwara HBCS, Phase 1, C",12.961,77.528,4,afternoon,600,3.98
+"J:BTP170 - Dr. Bheem Rao Palace, Chord Road","BTP170 - Dr. Bheem Rao Palace, Chord Road",12.99,77.551,4,evening,573,6.2
+G0176,"4th Main Road, Nagappa Block, Srirampuram, Benga",12.996,77.563,4,night,508,4.22
+J:BTP068 - Veeresh Theatre Junction,BTP068 - Veeresh Theatre Junction,12.977,77.546,4,morning,504,5.83
+"J:BTP210 - 50th cross, 12th Main , Rajajinagar","BTP210 - 50th cross, 12th Main , Rajajinagar",12.987,77.555,4,afternoon,455,6.37
+G0019,"Mallathahalli Road, Sri Gurukrupa Layout, Nagarb",12.961,77.512,4,evening,454,4.76
+"J:BTP062 - Basava Mantapa, Dr. Rajkumar Road","BTP062 - Basava Mantapa, Dr. Rajkumar Road",12.98,77.555,4,night,425,6.11
+J:BTP017 - Attiguppe Circle,BTP017 - Attiguppe Circle,12.961,77.53,4,morning,422,4.63
+J:BTP067 - Jai Muni Rao Circle,BTP067 - Jai Muni Rao Circle,12.979,77.543,4,afternoon,409,5.81
+G0103,"Gnana Bharathi Road, Manasa Layout, Nagarbhavi, ",12.957,77.519,4,evening,394,4.17
+J:BTP018 - Dhobi Ghat Junction,BTP018 - Dhobi Ghat Junction,12.988,77.55,4,night,382,5.85
+G0010,"Sri Sankasta Hara Ganapati Temple Road, Hampi Na",12.964,77.541,4,morning,382,4.09
+G0057,"Laggere Service Road, Narasimhaswamy Layout, Lag",13.008,77.527,4,afternoon,382,4.85
+G0027,"Sri Sri Sri Tiruchi Mahaswamiji Road, Gopalan Ar",12.936,77.518,4,evening,322,3.9
+G0062,"New Horizon College Road, New Horizon College of",12.934,77.691,5,morning,7244,6.9
+G0033,"Kadubeesanahalli Underpass, Kadubisanahalli Junc",12.939,77.697,5,afternoon,2246,6.66
+G0021,"Outer Ring Road, Citilights Liberty Apartment, K",12.927,77.679,5,evening,1921,5.8
+G0042,"ITPL Main Road, Brigade Tech Gardens, Brookefiel",12.964,77.718,5,night,1740,5.47
+G0012,"Marathahalli Underpass, Ashwath Nagar, Marathaha",12.957,77.702,5,morning,1534,6.28
+G0011,"Outer Ring Road, Saffron Square, Kariyammana Agr",12.93,77.685,5,afternoon,1174,5.61
+G0025,"Outer Ring Road, Soulspace Paradigm, Marathahall",12.95,77.7,5,evening,1089,5.52
+G0256,"Outer Ring Road, Vajram Onyx, Devara Beesana Hal",12.933,77.688,5,night,693,5.14
+G0174,"Whitefield Road, Sadaramangala Industrial Area, ",12.988,77.735,5,morning,624,4.33
+G0167,"Outer Ring Road, Rajiv Nagar, Kadubisanahalli, B",12.936,77.692,5,afternoon,611,5.04
+G0113,"ITPL Main Road, SJR Brooklyn Apartment, Kundalha",12.972,77.712,5,evening,533,4.8
+G0059,"ITPL Main Road, Embassy Paragon, Thubarahalli, B",12.959,77.716,5,night,491,4.61
+G0013,"Outer Ring Road, Salarpuria Sattva Eminence, Kad",12.944,77.698,5,morning,381,4.54
+G0169,"Vibgyor High School Road, Samhita Rainbow MTB Ap",12.951,77.717,5,afternoon,300,3.84
+G0084,"Unnamed Road, Begur Chikkanahalli, Bengaluru, Ka",13.185,77.68,6,morning,4406,6.66
+G0046,"Bengaluru Bellary Road, Sadahalli Gate Junction,",13.191,77.646,6,afternoon,924,4.93
+J:BTP108 - Tagore Park Junction,BTP108 - Tagore Park Junction,12.944,77.571,7,morning,1801,7.37
+J:BTP135 - UCO Bank Junction,BTP135 - UCO Bank Junction,12.936,77.615,7,afternoon,1112,6.16
+J:BTP130 - GD Mara Junction,BTP130 - GD Mara Junction,12.908,77.601,7,evening,631,5.39
+"J:BTP189 - New Diagonal Road, Jayanagar","BTP189 - New Diagonal Road, Jayanagar",12.928,77.581,7,night,602,6.1
+J:BTP137 - Madiwala Traffic PS Junction,BTP137 - Madiwala Traffic PS Junction,12.923,77.62,7,morning,596,5.35
+"J:BTP186 - 9th Cross, 4th Main, Jayanagar","BTP186 - 9th Cross, 4th Main, Jayanagar",12.939,77.583,7,afternoon,546,4.96
+"J:BTP123 - 10th Cross, Wilson Garden","BTP123 - 10th Cross, Wilson Garden",12.946,77.596,7,evening,535,5.81
+"J:BTP226 - 33rd Cross, 11th Main, Jayanagar","BTP226 - 33rd Cross, 11th Main, Jayanagar",12.926,77.586,7,night,492,6.2
+J:BTP215 - Vanivillas Junction,BTP215 - Vanivillas Junction,12.946,77.57,7,morning,434,6.01
+G0101,"5th Main Road, Dhondusa Layout, Basavanagudi, Be",12.942,77.567,7,afternoon,431,4.72
+J:BTP140 - Madiwala Check Post,BTP140 - Madiwala Check Post,12.932,77.613,7,evening,368,5.52
+"J:BTP163 - 16th Main Road, BTM Layout","BTP163 - 16th Main Road, BTM Layout",12.915,77.609,7,night,364,4.75
+"J:BTP115 - Sahasra Hospital, Jayanagar","BTP115 - Sahasra Hospital, Jayanagar",12.917,77.574,7,morning,362,5.81
+J:BTP136 - Hosur-Tavarkere Road Junction,BTP136 - Hosur-Tavarkere Road Junction,12.934,77.608,7,afternoon,360,5.6
+J:BTP219 - Canara Bank Junction,BTP219 - Canara Bank Junction,12.931,77.585,7,evening,358,5.89
+G0112,"Sadduguntepalya Road, Bharthi Layout, Saddugunte",12.931,77.607,7,night,352,4.3
+J:BTP218 - Syndicate Bank Junction,BTP218 - Syndicate Bank Junction,12.935,77.584,7,morning,351,5.15
+J:BTP155 - Katriguppe Junction,BTP155 - Katriguppe Junction,12.927,77.551,7,afternoon,339,4.62
+J:BTP126 - Dairy Circle,BTP126 - Dairy Circle,12.937,77.602,7,evening,334,5.58
+G0141,"7th Cross Road, MICO Layout, BTM Layout Stage 2,",12.914,77.605,7,night,333,3.74
+J:BTP109 - Dewan Madhava Rao Junction,BTP109 - Dewan Madhava Rao Junction,12.941,77.572,7,morning,309,5.01
+"J:BTP117 - 9th Cross, Kanakapura Road","BTP117 - 9th Cross, Kanakapura Road",12.912,77.573,7,afternoon,307,4.8
+"J:BTP188 - 27th Cross, 4th Main, Jayanagar","BTP188 - 27th Cross, 4th Main, Jayanagar",12.93,77.581,7,evening,294,5.08
+J:BTP220 - Puttanna Junction,BTP220 - Puttanna Junction,12.929,77.583,7,night,294,6.07

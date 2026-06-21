@@ -1,0 +1,27 @@
+{
+  "rows_analysed": 298445,
+  "total_parking_violations": 298445,
+  "spatial_mode": "geo",
+  "n_hotspots": 339,
+  "optimize_mode": "coverage",
+  "forecast_metrics": {
+    "test_bins": 28,
+    "MAE": 4.1449,
+    "RMSE": 10.2259,
+    "Poisson_deviance": 6.7784,
+    "Precision@20": 0.95,
+    "NDCG@20": 0.9953
+  },
+  "total_expected_impact_covered": 916.42,
+  "outputs": {
+    "cis_csv": "outputs\\cis_ranked_hotspots.csv",
+    "schedule_csv": "outputs\\patrol_schedule.csv",
+    "routes_csv": "outputs\\patrol_routes.csv",
+    "map_html": "outputs\\hotspot_map.html",
+    "charts_html": "outputs\\charts.html"
+  },
+  "fleet_route_km": 256.7,
+  "coverage_target": 0.8,
+  "coverage_achieved": 0.8005,
+  "hotspots_patrolled": 159
+}
