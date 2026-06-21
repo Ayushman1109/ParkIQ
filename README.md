@@ -200,7 +200,7 @@ Outputs land in `outputs/`:
 If the data file is missing, ParkIQ auto-generates a synthetic dataset so the
 pipeline always runs for a demo.
 
-## Reproducing the results (for judges)
+## Reproducing the results
 
 The real outputs are already in `outputs/` and the app reads them, so
 `streamlit run app.py` shows the real Bengaluru results **with no data file**.
@@ -210,7 +210,7 @@ drop the official dataset into `data/` (any of `.csv`, `.xlsb`, `.xlsx`, `.parqu
 — the 26 MB `.xlsb` and the larger original `.csv` are the same 298,445 rows and give
 identical results), then `python run_pipeline.py`. ParkIQ **auto-detects** whatever
 real file is in `data/` (no config edit needed). With no data file present it falls
-back to a synthetic demo dataset (clearly flagged; numbers are illustrative, not real).
+back to a synthetic demo dataset.
 
 ## Adapting / re-tuning (all in `config.py`)
 
@@ -261,12 +261,3 @@ mock_data.py         <- realistic stand-in CSVs so the app runs with no pipeline
   offence — hence the data-driven peak approach. A true occurrence-time field would
   sharpen the temporal model further.
 
-## Suggested 3-minute pitch arc
-
-1. *The gap* — enforcement is reactive and blind to impact (their words).
-2. *SEE* — the Bengaluru heatmap... but density != congestion impact.
-3. *SCORE* — CIS ranks Sagar Theatre / Elite / KR Market junctions, and shows *why*.
-4. *ACT* — we forecast next week (Precision@20 = 0.95) and hand the commander this
-   optimised patrol roster.
-5. *Depth* — UTC->IST fix, data-driven peaks, junction anchoring, scalable to 298k.
-   One config line points it at next month's data.
