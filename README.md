@@ -241,23 +241,3 @@ app_logic.py         <- pure, unit-tested logic behind the app (no UI)
 mock_data.py         <- realistic stand-in CSVs so the app runs with no pipeline
 ```
 
-## Honest limitations -> your "future work" slide
-
-- **Travel cost is straight-line (haversine), not road-network distance.** Routes use
-  great-circle distance between stops — fine and fast for a prototype, and a
-  conservative (slightly optimistic) approximation. To use real driving distance, swap
-  the distance matrix in `src/routing.py` for an OSRM / Mapbox / Google Distance-Matrix
-  call; the TSP/2-opt step is unchanged.
-- **Coverage is bounded by spatial spread, not algorithm.** Reaching 90% needs ~150
-  zones because violations are spread across the city (the top 12 hotspots are only
-  ~32% of all violations). The Coverage Planner's **beat-radius** control runs greedy
-  Maximum-Coverage to trade stop-count for beat-size (150 m→336 zones, 1500 m→77 zones
-  for ~90%) — a deliberate operational choice, not a way to fake a small number.
-
-- **No live traffic feed.** CIS uses violation structure + junction + offence
-  severity as the flow-impact signal. Drop a Google/TomTom/Mapbox speed feed into
-  `src/cis.py` and CIS becomes a *measured* flow impact rather than a strong proxy.
-- **`created_datetime` is challan-creation time**, not necessarily the moment of
-  offence — hence the data-driven peak approach. A true occurrence-time field would
-  sharpen the temporal model further.
-
